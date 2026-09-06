@@ -1,4 +1,4 @@
-#Infarpol Brief
+#Infrapol Brief
 
 ##1. The question
 How are critical infrastructures distributed in Abia State, Nigeria and what insights does this information provide considering population at ward level?
