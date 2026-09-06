@@ -8,9 +8,9 @@ It matters because it gives insights on how infrastructures planning decisions c
 
 ## 3. The data needed
 The most relevant data for the project include:
--Transport Network data (road and rail)
--Administrative boundary up to ward level
--Point data of critical infrastructures
+- Transport Network data (road and rail)
+- Administrative boundary up to ward level
+- Point data of critical infrastructures
 Supplementary point data for critical infrastructures will be manually sourced.
 
 ## 4. Where each data come from
