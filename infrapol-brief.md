@@ -15,7 +15,7 @@ Supplementary point data for critical infrastructures will be manually sourced.
 
 #4. Where each data come from
 - Humanitarian Data Exchange - data.humdata.org
-- GrRID3 Data Hub - data.grid3.org
+- GRID3 Data Hub - data.grid3.org
 - Manual extraction (Google map and online information)
 
 ##5. What will be built
